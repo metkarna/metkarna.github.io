@@ -1,2 +1,2 @@
 # metkarna.github.io
-MY PORTFOLIO
+Resume
