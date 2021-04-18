@@ -24,6 +24,7 @@ font-family: 'Anton', 'Jura', 'Jockey One';
     height: 100vh;
     position: absolute;
     display: flex;
+    flex-direction: column;
     -webkit-justify-content: center;
     justify-content: center;
     -webkit-align-items: center;
