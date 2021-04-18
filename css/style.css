@@ -34,6 +34,12 @@ font-family: 'Anton', 'Jura', 'Jockey One';
       font-size: 96pt;
       font-style: none;
       font-weight: 800; }
+    #start #title h3 {
+      font-family: "Jockey One", sans-serif;
+      color: #0054db;
+      font-size: 80pt;
+      font-style: none;
+      font-weight: 800; }
 
 #aboutMe {
   top: 0px;
